@@ -46,8 +46,16 @@ The raw dataset comprised **912 initial records** covering various sales transac
 
 ## 10. Screenshots
 
+Here are the verified visual outputs from the data cleaning and pivot reporting process:
 
-* **Raw Data Preview:** ![Raw Data](raw_data_preview.png)
-* **Cleaned Data Preview:** ![Cleaned Data](cleaned_data_preview.png)
-* **Pivot Summary 1 (Category Breakdown):** ![Pivot 1](pivot_summary_1.png)
-* **Pivot Summary 2 (Order Status):** ![Pivot 2](pivot_summary_2.png)
+### 1. Raw Data Preview
+<img src="screenshots/raw_data_preview.png" alt="Raw Data Preview">
+
+### 2. Cleaned Data Preview
+<img src="screenshots/cleaned_data_preview.png" alt="Cleaned Data Preview">
+
+### 3. Pivot Summary 1 (Category Breakdown)
+<img src="screenshots/pivot_summary_1.png" alt="Pivot Summary 1">
+
+### 4. Pivot Summary 2 (Order Status)
+<img src="screenshots/pivot_summary_2.png" alt="Pivot Summary 2">
